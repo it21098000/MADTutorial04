@@ -1,3 +1,8 @@
 <resources>
     <string name="app_name">lab4</string>
+    <string name="email">Enter Email</string>
+    <string name="password">Enter Password</string>
+    <string name="rePassword">Re Enter Password</string>
+    <string name="btnSubmit">Submit</string>
+    <string name="btnCancel">Cancel</string>
 </resources>
